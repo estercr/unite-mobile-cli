@@ -1,4 +1,9 @@
 {
   "name": "uniteMobile",
-  "displayName": "uniteMobile"
+  "displayName": "uniteMobile",
+  "icon": "./assets/images/icon.png",
+  "splash": {
+    "image": "./assets/images/splash.png",
+    "resizeMode": "cover"
+  }
 }
